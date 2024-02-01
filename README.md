@@ -9,4 +9,4 @@ Compared the results to recommend the best Machine Learning model.
 
 COLAB NOTEBOOK: https://colab.research.google.com/drive/1ioamksTIPHbBt6UdiJFq9IUqmYeB9A9d?usp=sharing
 
-PDF FILE LINK: 
+PDF FILE LINK: https://drive.google.com/file/d/1Ih8HgziEZOTtWW-L0XB7Yk6J--5YqWg9/view?usp=sharing
